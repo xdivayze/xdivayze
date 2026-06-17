@@ -1,7 +1,3 @@
-# xdivayze welcomes you 
-
-I try to write cool code. I strictly believe that AI in programming just leads to more work fixing it in the future. 
-
 # What I am working on
 ## Papo, a game engine that supports hardware multiplexing
 - Currently, I am implementing the performence critical scene loading.
